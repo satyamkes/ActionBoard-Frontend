@@ -1,12 +1,43 @@
-# React + Vite
+# ActionBoard – The Ultimate Productivity Dashboard  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ActionBoard is a **full-featured MERN-based productivity platform** that combines **Task Management**, **Pomodoro Timer**, **Time Analytics**, and a **Smart Scheduler** to help you plan, focus, and achieve more.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Key Features  
 
-## Expanding the ESLint configuration
+### Task Manager  
+- Create, edit, and organize tasks with priorities & categories.  
+- Track progress using an intuitive Kanban-style interface.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Pomodoro Timer  
+- Boost focus with customizable work/break intervals.  
+- Track completed Pomodoro sessions for performance analysis.  
+
+### Productivity Analytics  
+- Gain insights into work patterns with visual charts.  
+- Time tracking & task completion metrics at a glance.  
+
+### Smart Scheduler  
+- Auto-schedule tasks to maximize daily productivity.  
+- Drag-and-drop interface for easy planning.  
+
+---
+
+## Tech Stack  
+
+| **Technology**  | **Purpose** |
+|------------------|-------------|
+| **MongoDB**      | Database for storing tasks, sessions & analytics |
+| **Express.js**   | Backend framework for API handling |
+| **React.js**     | Frontend UI with dynamic components |
+| **Node.js**      | Server-side runtime environment |
+| **TailwindCSS**  | Modern and responsive styling |
+
+---
+
+## UI Preview   
+
+> _Insert screenshots or GIFs of the application here_  
+> e.g., Dashboard View | Task Manager | Pomodoro Timer | Analytics Page  
+
